@@ -20,3 +20,11 @@ TEST(TypeWiseAlertTestSuite, AlertsControllerCorrectly) {
 TEST(TypeWiseAlertTestSuite, AlertsEmailCorrectly) {
     // Mock or check the console output
 }
+
+TEST(TypeWiseAlertTestSuite, SendAlertViaController) {
+    // Test sendAlert with TO_CONTROLLER
+}
+
+TEST(TypeWiseAlertTestSuite, SendAlertViaEmail) {
+    // Test sendAlert with TO_EMAIL
+}
