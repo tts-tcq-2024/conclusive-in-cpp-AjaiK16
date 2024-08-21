@@ -28,3 +28,4 @@ TEST(TypeWiseAlertTestSuite, SendAlertViaController) {
 TEST(TypeWiseAlertTestSuite, SendAlertViaEmail) {
     // Test sendAlert with TO_EMAIL
 }
+
